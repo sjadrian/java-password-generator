@@ -1,6 +1,6 @@
 # java-password-generator
 
-I decided to make a simple password generator using Java to further develop my Java skill. 
+Insipired by KeepPassXC password Generator. I decided to make a simple password generator using Java to further develop my Java skill. 
 The password generator uses Java Swing Framework to display Graphical User Interface. 
 
 User is able to generate password with different length and combinations of characters. 
