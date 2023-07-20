@@ -1,6 +1,6 @@
 # java-password-generator
 
-Having a strong password is crucial these days. Strong password prevents unauthorized individual to access our sensitive information. Inspired by KeepPassXC an a password manager application, I decided to make a simple password generator using Java to further develop my Java skill. 
+Having a strong password is crucial these days. Strong password prevents unauthorized individual to access our sensitive information. Inspired by KeepPassXC a password manager application, I decided to make a simple password generator using Java to further develop my Java skill. 
 The password generator uses Java Swing Framework to display Graphical User Interface. 
 
 User is able to generate password with different length and combinations of characters. 
