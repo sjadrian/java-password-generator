@@ -1,4 +1,6 @@
-package org.example;
+package org.example.userinterface;
+
+import org.example.password.PasswordFactory;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.password;
 
 import java.util.Random;
 
