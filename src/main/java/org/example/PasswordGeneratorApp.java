@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.userinterface.PasswordManagerFrame;
+import org.example.ui.PasswordManagerFrame;
 
 public class PasswordGeneratorApp {
     public static void main(String[] args) {
