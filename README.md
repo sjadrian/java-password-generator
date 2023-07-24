@@ -1,5 +1,5 @@
 # Java-Password-Generator
-This project is a Java GUI Application to produce random passwords and display password strength information.
+This is a Java Graphical User Interface(GUI) application to produce random passwords and display password strength information.
 
 
 ## Background
