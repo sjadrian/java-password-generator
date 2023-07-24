@@ -52,7 +52,7 @@ public class PasswordManagerFrame extends JFrame {
 
             textField.setText(password);
             passwordQuality.setText("Password Quality: " + passwordFactory.getPasswordQuality());
-            entropy.setText("Entropy: " + passwordFactory.getPasswordStrength() +" bit");
+            entropy.setText("Entropy: " + passwordFactory.getPasswordStrength() +" bits");
             progressBar.setValue((int) passwordFactory.getPasswordStrength());
         });
 
