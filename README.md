@@ -1,10 +1,9 @@
 # Java-Password-Generator
-This project is a Java GUI Application to produce random passwords and display password strength information.
+This is a Java Graphical User Interface (GUI) application designed to generate random passwords and display password strength information.
 
 
 ## Background
-Having a strong password is crucial these days. Strong password prevents unauthorized individual to access our sensitive information. Inspired by KeepPassXC a password manager application, I decided to make a simple password generator using Java to further develop my Java skill. Password strength which is measured by password entropy is also shown.
-
+Having a strong password is crucial these days. Strong password prevents unauthorized individuals from accessing our sensitive information. Inspired by KeepPassXC a password manager application, I decided to develop a password generator using Java to further develop my Java skill. This app uses Java Swing Framework to display Graphical User Interface. The password strength, measured by password entropy, is also displayed.
 
 ### Password Entropy Formula: 
 
@@ -29,13 +28,13 @@ $L$ - Password Length
 
 
 ## Functionalities
-1. Generate Password: User is able to generate password with different length and combinations of characters. 
+1. Generate Password: Users can generate passwords with different lengths and combinations of characters.
 
-2. Check Password's Strength: After generating the password, the password quality and entropy are shown.
+2. Check Password Strength: After generating the password, the password quality and entropy are displayed.
 
-3. Copy to Clipboard: In additon, user can copy the generated password to clipboard by clicking the copy button.
+3. Copy to Clipboard: Additionally, users can copy the generated password to the clipboard by clicking the copy button.
 
-The password generator uses Java Swing Framework to display Graphical User Interface. 
+
 
 ## Screenshot
 ![img.png](img.png)
